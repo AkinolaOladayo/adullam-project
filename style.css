@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.bg-dark {
+  background-color:black!important;
+}
+.btn-outline-success{
+  border-color: red!important;
+  color: #fff;
+}
+.btn-outline-success:hover{
+    color:#fff!important;
+}
+.btn-outline-default{
+  border-color:black;
+  color: white;
+  background: red;
+}
+body{
+  width: 100%;
+}
+.progress{
+  background: #fff;
+}
+.progress-bar{
+  margin-bottom: 5px;
+}
+.text{
+  margin-top: 20%;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+  color: red;
+}
+.text-btn{
+   position: absolute;
+   left: 40%;
+   margin-top: 10px;
+   background:rgb(245, 126, 126);
+   color: #fff;
+}
+.text-btn:hover{
+  color: #fff;
+  cursor: pointer;
+}
